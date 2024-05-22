@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm FASIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-<!--
-**fasinfasi/fasinfasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤙call me FASI...
 
-Here are some ideas to get you started:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Let know about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨I dedicated and passionate in technology<br>
+🌱Learned on myown research<br>
+🤝Looking collaborate to Open Source<br>
+💬Ask me about python, pandas, numpy, mysql, fastapi<br>
+👯‍♂️You can connect with me<br>
+📝My post are in <a>linkedin</a><br>
+🔎🌍exploring new things...<br>
+
+#### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">My work on:
+<p>
+        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/> 
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStQa0p7RCejEFJ3r4HUVFcI3R4Wh89UwtszB7-RBvPXQ&s" alt="pandas" width="55" height="55"/> 
+        <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="80" height="90"/>   
+        <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="60" height="60"/>
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>        
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
+        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55"/> 
+        <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="55" height="55"/> 
+
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+![fasin's github stats](https://github-readme-stats.vercel.app/api?username=fasinfasi&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=holi)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fasinfasi&theme=dark)](https://git.io/streak-stats)
