@@ -4,9 +4,9 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Let know about me:
 
-I'm a graduator with strong interest in coding and technology. My passion lies in exploring and working with **AI**, **ML**, **Deep Learning**, and **IoT**, where hardware and software come together. I'm always eager to dive into new technologies and continuously improve my skills through hands-on projects.
+I'm a graduator🎓 with strong interest in coding and technology. My passion lies in exploring and working with **AI**🤖, **ML**🧠, **Deep Learning**🌌, and **IoT**🛠, where hardware and software come together. I'm always eager to dive into new technologies and continuously improve my skills through hands-on projects.
 
-I believe in the power of innovation to solve real-world problems, and I'm working toward building products or services that can make a positive impact. I enjoy connecting with others in the tech community who are equally passionate about growth and technology. Feel free to check out my projects or collaborate on something exciting!
+I believe in the power of innovation💡 to solve real-world problems, and I'm working toward building products or services that can make a positive impact💫. I enjoy connecting with others in the tech community👯‍♂️ who are equally passionate about growth and technology. Feel free to check out my projects or collaborate on something exciting👀!
 
 #### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">My work on:
 <p>
